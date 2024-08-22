@@ -1,3 +1,3 @@
-const maxNumber = (firstNumber, secondNumber, thirdNumber) => {
-  return Math.max(firstNumber, secondNumber, thirdNumber)
+const maximumNumber = (num1, num2, num3) => {
+  return Math.max(num1, num2, num3);
 }
