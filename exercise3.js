@@ -4,4 +4,4 @@ const reverseString = (string) => {
 };
 
 
-console.log(reverseString(90))
+console.log(reverseString())
